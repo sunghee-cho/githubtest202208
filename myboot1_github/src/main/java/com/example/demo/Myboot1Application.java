@@ -27,7 +27,11 @@ public class Myboot1Application {
 		SpringApplication.run(Myboot1Application.class, args);
 		System.out.println("myboot1_github(8081) 실행중");
 		System.out.println("프로젝트 공유하는 다른 팀원이 추가중");
+
+		System.out.println("프로젝트 팀장이 추가중");
 		System.out.println("프로젝트 공유하는 다른 팀원이 추가중2");
+
+
 	}
 
 }
