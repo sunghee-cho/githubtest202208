@@ -25,6 +25,7 @@ public class Myboot1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Myboot1Application.class, args);
+		System.out.println("myboot1_github(8081) 실행중");
 	}
 
 }
